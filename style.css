@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Heebo', sans-serif;
+}
+
+nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1.25rem;
+}
+
+header{
+    position: relative;
+    top: 0;
+    background-color: white;
+}
